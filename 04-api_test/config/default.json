@@ -1,0 +1,9 @@
+{
+    "appName":"Movie api",
+    "port":3000,
+    "movieApi":{
+        "baseUrl" : "https://api.themoviedb.org/3",
+        "apiKey": "bf091621962bdf5c30339e874a2a0c1a",
+        "language":"en"
+    }
+}
