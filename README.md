@@ -1,6 +1,4 @@
-# Project Title
-
-Interview Tests
+# Interview Tests
 
 ---
 ## Requirements
